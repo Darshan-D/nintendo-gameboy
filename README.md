@@ -39,5 +39,6 @@ PS: Yes, I am aware of that typo in "Definetly" ... and it's intentional !
 
 ## Try out the app for yourself!
 - This is just an MVP and not a production-ready app i.e. there are quite a few bugs!
+- This is to showcase only the character movements and animations using flutter widgets i.e. this is not meant to be played as a game
 - Available for Android 10+ : [Google Drive Link for APK file](https://shorturl.at/quBP1)
 
