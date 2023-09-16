@@ -29,13 +29,13 @@ Before you begin, ensure you have met the following requirements:
   ```
 
 ## Testing
-Here is the output of the current product:
+Here is the output of the current MVP:
 <p float="left">
   <img src="./output/appPreview-1.jpeg" width="32%" />
   <img src="./output/appPreview-2.jpeg" width="32%" /> 
   <img src="./output/appPreview-3.jpeg" width="32%" />
 </p>
-PS: Yes, I am aware of that typo in "Definetly"!
+PS: Yes, I am aware of that typo in "Definetly" ... and it's intentional !
 
 ## Try out the app for yourself!
 - This is just an MVP and not a production-ready app i.e. there are quite a few bugs!
